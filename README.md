@@ -29,9 +29,9 @@ These are the model annotations of the original essays by ERRANT, in M2 format.
 This contains the precision, recall, and F0.5 scores for each essay alongside overall averages. It also contains the bash commands used to activate the errant env, evaluate the model's performance against the manual annotations, and create the files in model_corrected_m2.
 8. **participant_data**  
 This provides information on the participants who are represented by a code.
-9. **model_results**
+9. **model_results**  
 This displays the error frequency table created by parse.ipynb for model_corrected_m2
-10. **manual_results**
+10. **manual_results**  
 This displays the error frequency table created by parse.ipynb for manual_corrected_m2
 
 ## ERRANT folder
